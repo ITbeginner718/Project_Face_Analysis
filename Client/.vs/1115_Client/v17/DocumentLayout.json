@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|d:\\\uBE44\uD2B8\uACE0\uAE09\\(.net)wcf\\wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_client\\image_each_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_client\\image_each_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Image_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\Image_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\Network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\OpenCvSharpExtern.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\OpenCvSharpExtern.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\Cam_Window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\Cam_Window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_Client\\App.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_client\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024B3F23-8B0E-40E5-B163-FF50EF9CA7A8}|1115_Client\\1115_Client.csproj|solutionrelative:1115_client\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "1115_Client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "1115_Client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:10:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image_Each_Person.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Image_Each_Person.cs",
+              "RelativeDocumentMoniker": "1115_Client\\Image_Each_Person.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Image_Each_Person.cs",
+              "RelativeToolTip": "1115_Client\\Image_Each_Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Image_Data.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Image_Data.cs",
+              "RelativeDocumentMoniker": "1115_Client\\Image_Data.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Image_Data.cs",
+              "RelativeToolTip": "1115_Client\\Image_Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml",
+              "RelativeDocumentMoniker": "1115_Client\\App.xaml",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml",
+              "RelativeToolTip": "1115_Client\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T10:04:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cam_Window.xaml",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml",
+              "RelativeDocumentMoniker": "1115_Client\\Cam_Window.xaml",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml",
+              "RelativeToolTip": "1115_Client\\Cam_Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T10:04:28.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.config",
+              "RelativeDocumentMoniker": "1115_Client\\App.config",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.config",
+              "RelativeToolTip": "1115_Client\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-21T10:04:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenCvSharpExtern.dll",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\OpenCvSharpExtern.dll",
+              "RelativeDocumentMoniker": "1115_Client\\OpenCvSharpExtern.dll",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\OpenCvSharpExtern.dll",
+              "RelativeToolTip": "1115_Client\\OpenCvSharpExtern.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-08-21T10:04:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "1115_Client\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "1115_Client\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAALkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Network.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Network.cs",
+              "RelativeDocumentMoniker": "1115_Client\\Network.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Network.cs",
+              "RelativeToolTip": "1115_Client\\Network.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwC8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "1115_Client\\MainWindow.xaml",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\MainWindow.xaml",
+              "RelativeToolTip": "1115_Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T10:04:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cam_Window.xaml.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml.cs",
+              "RelativeDocumentMoniker": "1115_Client\\Cam_Window.xaml.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\Cam_Window.xaml.cs",
+              "RelativeToolTip": "1115_Client\\Cam_Window.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "1115_Client\\App.xaml.cs",
+              "ToolTip": "D:\\\uBE44\uD2B8\uACE0\uAE09\\(.NET)WCF\\Wcf_1115_\uC870\uBCC4\uC2E4\uC2B5(\uC5BC\uAD74 \uCD94\uCD9C \uD504\uB85C\uADF8\uB7A8 \uD074\uB77C\uC774\uC5B8\uD2B8)\\1115_Client\\App.xaml.cs",
+              "RelativeToolTip": "1115_Client\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:28.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

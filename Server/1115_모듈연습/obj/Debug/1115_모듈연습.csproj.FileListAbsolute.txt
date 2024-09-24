@@ -1,0 +1,178 @@
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Buffers.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Memory.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Buffers.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Memory.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\_1115_모듈연습.Form1.resources
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+C:\Users\dkseh\OneDrive\바탕 화면\WCF\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\_1115_모듈연습.Form1.resources
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\1115_모듈연습\1115_모듈연습\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\ConsoleApp_1115_조별실습_얼굴_추출_프로그램_.Form1.resources
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램)\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\ConsoleApp_1115_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+C:\Users\user\Desktop\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CopyComplete
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+E:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharpExtern.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe.config
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.exe
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\1115_모듈연습.pdb
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\OpenCvSharp.Extensions.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Buffers.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Drawing.Common.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Memory.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Numerics.Vectors.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.AssemblyReference.cache
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\_1115_모듈연습.Properties.Resources.resources
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.GenerateResource.cache
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.CoreCompileInputs.cache
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.csproj.Up2Date
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.exe
+D:\비트고급\(.NET)WCF\Wcf_1115_ConsoleApp_조별실습(얼굴 추출 프로그램 서버)\1115_모듈연습\obj\Debug\1115_모듈연습.pdb
